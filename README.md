@@ -36,3 +36,7 @@ Diferente de uma abordagem tradicional ("Super Loop" ou acesso direto aos regist
 │   ├── led_driver.c     # Implementação da Tarefa do Driver e lógica da Fila
 │   ├── led_driver.h     # Interface pública (API) do Driver
 └── README.md
+```
+
+## Link do projeto no Wokwi
+https://wokwi.com/projects/448953454245071873
